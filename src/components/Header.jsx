@@ -1,3 +1,5 @@
+// Header component displays the blog name
+// It receives data from its parent (App) via props
 function Header({ name }) {
   return (
     <header>

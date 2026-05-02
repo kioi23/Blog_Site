@@ -1,3 +1,5 @@
+// About component shows information about the blog
+// It receives an image URL and description text as props
 function About({ image, about }) {
   return (
     <aside>

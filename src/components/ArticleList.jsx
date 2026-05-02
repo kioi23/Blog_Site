@@ -1,5 +1,8 @@
 import Article from "./Article";
 
+// ArticleList component renders a list of blog posts
+// It receives an array of posts as props from App
+
 function ArticleList({ posts }) {
   return (
     <main>

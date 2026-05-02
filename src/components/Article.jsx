@@ -1,3 +1,5 @@
+// Article component represents a single blog post
+// It receives title, date, and preview text as props
 function Article({ title, date, preview }) {
   return (
     <article>
